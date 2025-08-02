@@ -1,26 +1,47 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hey+There!+👋;I'm+Sanchit+Pandey;Software+Development+Enthusiast;MERN+Stack+Developer;Lifelong+Learner+💡" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi there 👋, I'm Sanchit Pandey</h1>
+<h3 align="center">Aspiring Software Development Engineer | MERN Stack Developer | Problem Solver</h3>
 
 ---
 
-## 🧠 Who am I?
-
-- 🎓 Final-year Computer Science undergrad
-- 💻 Full-stack developer specializing in **React, Node.js, MongoDB**
-- 🔍 Exploring **AI/ML**, **Deep Learning**, and **Cloud Development**
-- ⚙️ DSA Practitioner – 500+ LeetCode problems solved 1800 rating and Leetcode Knight 🗿
-- 🤝 Open to internships, open-source contributions, and tech talks
-- 🧩 Hobbies: Competitive programming, building projects, digital design
-- 🔗 Portfolio: [pandeysan.vercel.app](https://pandeysan.vercel.app)
+### 🧑‍💻 About Me
+- 🔭 I’m currently working on **Full-stack projects** & sharpening my **DSA skills**  
+- 🌱 Learning **TypeScript**, **System Design**, and **Deep Learning**  
+- 💼 Passionate about building scalable software and elegant user experiences  
+- 👯 I’m open to **internships**, **collaborations**, and **open-source** contributions  
+- 💬 Ask me about **React**, **MongoDB**, **Node.js**, or anything tech!  
+- 🏆 Codeforces Specialist (Rating: 1543) | 500+ Leetcode problems solved  and Leetcode Knight 🗿 with 1800 rating
+- 📫 Reach me at: `sancpan02@gmail.com`  
+- 🌐 Portfolio: [pandeysan.vercel.app](https://pandeysan.vercel.app)
 
 ---
 
-## 🚀 Tech Arsenal
+### 🛠️ Tech Stack
+#### 🚀 Languages & Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-```bash
-Languages     = [ "JavaScript", "TypeScript", "Python", "C++" ]
-Frontend      = [ "React.js", "HTML", "CSS", "Tailwind", "Redux" ]
-Backend       = [ "Node.js", "Express.js", "MongoDB", "Firebase" ]
-Tools         = [ "Git", "Postman", "VSCode", "Netlify", "Vercel" ]
-Learning Now  = [ "Next.js", "GraphQL", "Docker", "LLMs", "System Design" ]
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pandeySAN&show_icons=true&theme=github_dark" width="49.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandeySAN&theme=github-dark-blue" width="49.5%"/>
+</p>
+
+---
+
+### 🔗 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeySAN)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/pandeySAN)
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
