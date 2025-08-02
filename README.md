@@ -9,7 +9,7 @@
 - 💼 Passionate about building scalable software and elegant user experiences  
 - 👯 I’m open to **internships**, **collaborations**, and **open-source** contributions  
 - 💬 Ask me about **React**, **MongoDB**, **Node.js**, or anything tech!  
-- 🏆 Codeforces Specialist (Rating: 1543) | 200+ Leetcode problems solved  
+- 🏆 Codeforces Specialist (Rating: 1543) | 500+ Leetcode problems solved  Leetcode Knight 🗿 1900 rating
 - 📫 Reach me at: `sancpan02@gmail.com`  
 - 🌐 Portfolio: [pandeysan.vercel.app](https://pandeysan.vercel.app)
 
@@ -39,7 +39,7 @@
 ---
 
 ### 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeySAN)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeysanc)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/pandeySAN)
 
 ---
