@@ -11,7 +11,7 @@
 - 💬 Ask me about **React**, **MongoDB**, **Node.js**, or anything tech!  
 - 🏆 Codeforces Specialist (Rating: 1543) | 500+ Leetcode problems solved  Leetcode Knight 🗿 1900 rating
 - 📫 Reach me at: `sancpan02@gmail.com`  
-- 🌐 Portfolio: [pandeysan.vercel.app]([https://pandeysan.vercel.app](https://my-portfolio-mu-opal-11.vercel.app))
+- 🌐 Portfolio: [[pandeysan.vercel.app](https://my-portfolio-mu-opal-11.vercel.app)]
 
 ---
 
