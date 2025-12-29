@@ -210,9 +210,8 @@ Scalable social media backend with microservices
 ## 🏆 Achievements & Coding Profiles
 
 <div align="center">
-  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/pandeySAN?theme=dark&font=Encode%20Sans%20Semi%20Condensed)](https://leetcode.com/u/pandeySAN)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sanchitpandey7687?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/pandeySAN)
 
 <br/>
 
