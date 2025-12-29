@@ -230,7 +230,7 @@ Scalable social media backend with microservices
 ### 📚 Publications & Contributions
 - 🔬 Open-source Drupal theme adopted across **IIT Bombay projects**
 - 📖 Technical documentation published on **FOSSEE portal**
-- 🤝 Active contributor to Node.js and Django communities
+- 🤝 **Active contributor to Node.js and Django communities**
 
 ---
 
@@ -238,9 +238,46 @@ Scalable social media backend with microservices
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/pandeySAN/pandeySAN/output/github-contribution-grid-snake-dark.svg)
+[![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/pandeySAN/pandeySAN/output/github-contribution-grid-snake-dark.svg)](https://github.com/pandeySAN)
 
 </div>
+
+---
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🏗️ System Design
+- Microservices Architecture
+- Database Design & Optimization
+- Caching Strategies
+- Load Balancing & Scaling
+- API Design Patterns
+
+</td>
+<td align="center" width="33%">
+
+### 🔧 Backend Development
+- RESTful API Development
+- Authentication & Authorization
+- Database Management
+- Performance Optimization
+- Cloud Infrastructure
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 AI & ML
+- LLM Integration
+- Computer Vision
+- Model Deployment
+- Data Processing
+- MLOps
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -283,15 +320,37 @@ Scalable social media backend with microservices
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Get In Touch
 
 <div align="center">
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision!
 
+### 📧 Contact Information
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 📬 Email
+**[sancpan02@gmail.com](mailto:sancpan02@gmail.com)**
+
+</td>
+<td align="center" width="50%">
+
+#### 📱 Phone
+**[+91-9161727561](tel:+919161727561)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeysanc)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sancpan02@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sancpan02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sancpan02@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-mu-opal-11.vercel.app)
+[![Phone](https://img.shields.io/badge/Phone-%2B91--9161727561-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919161727561)
 
 ### 💬 Ask me about
 `System Design` • `Backend Architecture` • `DSA` • `AI/ML Integration` • `Cloud Infrastructure`
