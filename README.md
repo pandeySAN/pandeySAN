@@ -211,7 +211,7 @@ Scalable social media backend with microservices
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sanchitpandey7687?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/pandeySAN)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/pandeySAN?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/pandeySAN)
 
 <br/>
 
