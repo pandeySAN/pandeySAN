@@ -26,7 +26,7 @@
 const sanchit = {
     title: "Software Developer @ Chroma-lab Technologies",
     education: "B.Tech CSE (AI & ML) | KMUCU Lucknow",
-    location: "Lucknow, Uttar Pradesh, India",
+    location: "Narnaund, Haryana, India",
     
     current_focus: [
         "Distributed Systems Architecture",
@@ -215,9 +215,9 @@ Scalable social media backend with microservices
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-550%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanchitpandey7687)
-[![LeetCode Rating](https://img.shields.io/badge/Rating-1900%2B-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanchitpandey7687)
-[![Top Percentage](https://img.shields.io/badge/Rank-Top_4%25-brightgreen?style=for-the-badge)](https://leetcode.com/u/sanchitpandey7687)
+[![LeetCode](https://img.shields.io/badge/LeetCode-550%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pandeySAN)
+[![LeetCode Rating](https://img.shields.io/badge/Rating-1900%2B-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pandeySAN)
+[![Top Percentage](https://img.shields.io/badge/Rank-Top_4%25-brightgreen?style=for-the-badge)](https://leetcode.com/u/pandeySAN)
 
 <br/>
 
