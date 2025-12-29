@@ -26,7 +26,7 @@
 const sanchit = {
     title: "Software Developer @ Chroma-lab Technologies",
     education: "B.Tech CSE (AI & ML) | KMUCU Lucknow",
-    location: "Narnaund, Haryana, India",
+    location: "Lucknow, Uttar Pradesh, India",
     
     current_focus: [
         "Distributed Systems Architecture",
@@ -211,13 +211,15 @@ Scalable social media backend with microservices
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/pandeySAN?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/pandeySAN)
+### 🟡 LeetCode Profile
 
-<br/>
+**Username:** [pandeySAN](https://leetcode.com/u/pandeySAN)  
+**Problems Solved:** 550+ | **Rating:** 1900+ | **Rank:** Top 4% Globally
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-550%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pandeySAN)
-[![LeetCode Rating](https://img.shields.io/badge/Rating-1900%2B-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pandeySAN)
-[![Top Percentage](https://img.shields.io/badge/Rank-Top_4%25-brightgreen?style=for-the-badge)](https://leetcode.com/u/pandeySAN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pandeySAN)
+[![Problems](https://img.shields.io/badge/550%2B_Problems-Solved-orange?style=for-the-badge)](https://leetcode.com/u/pandeySAN)
+[![Rating](https://img.shields.io/badge/1900%2B-Rating-brightgreen?style=for-the-badge)](https://leetcode.com/u/pandeySAN)
+[![Rank](https://img.shields.io/badge/Top_4%25-Global-success?style=for-the-badge)](https://leetcode.com/u/pandeySAN)
 
 <br/>
 
