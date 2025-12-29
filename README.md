@@ -194,21 +194,15 @@ Scalable social media backend with microservices
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pandeySAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=pandeySAN&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
 
-<br/>
+### 📈 Contribution Activity
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeySAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pandeySAN&theme=tokyonight&utcOffset=5.5" alt="Commit Time" />
-</div>
+![Contribution Graph](https://ghchart.rshah.org/58A6FF/pandeySAN)
 
-<br/>
+### 💻 Coding Stats
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandeySAN&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area_color=58A6FF&area=true&hide_border=true" alt="Contribution Graph" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pandeySAN&theme=tokyonight)
+
 </div>
 
 ---
@@ -217,7 +211,7 @@ Scalable social media backend with microservices
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sanchitpandey7687?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sanchitpandey7687)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sanchitpandey7687?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/pandeySAN)
 
 <br/>
 
@@ -241,16 +235,6 @@ Scalable social media backend with microservices
 - 🔬 Open-source Drupal theme adopted across **IIT Bombay projects**
 - 📖 Technical documentation published on **FOSSEE portal**
 - 🤝 **Active contributor to Node.js and Django communities**
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake Animation](https://github.com/pandeySAN/pandeySAN/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
