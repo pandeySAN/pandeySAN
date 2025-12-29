@@ -26,7 +26,7 @@
 const sanchit = {
     title: "Software Developer @ Chroma-lab Technologies",
     education: "B.Tech CSE (AI & ML) | KMUCU Lucknow",
-    location: "Narnaund, Haryana, India",
+    location: "Lucknow, Uttar Pradesh, India",
     
     current_focus: [
         "Distributed Systems Architecture",
