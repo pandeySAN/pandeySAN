@@ -194,17 +194,21 @@ Scalable social media backend with microservices
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pandeySAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pandeySAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=pandeySAN&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandeySAN&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Activity Graph" />
-</div>
+<br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeySAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeySAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pandeySAN&theme=tokyonight&utcOffset=5.5" alt="Commit Time" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandeySAN&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area_color=58A6FF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -213,9 +217,15 @@ Scalable social media backend with microservices
 
 <div align="center">
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sanchitpandey7687?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/sanchitpandey7687)
+
+<br/>
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-550%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanchitpandey7687)
 [![LeetCode Rating](https://img.shields.io/badge/Rating-1900%2B-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanchitpandey7687)
 [![Top Percentage](https://img.shields.io/badge/Rank-Top_4%25-brightgreen?style=for-the-badge)](https://leetcode.com/u/sanchitpandey7687)
+
+<br/>
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pandeySAN)
 [![Rating](https://img.shields.io/badge/Rating-1543-blue?style=for-the-badge)](https://codeforces.com/profile/pandeySAN)
@@ -238,7 +248,7 @@ Scalable social media backend with microservices
 
 <div align="center">
 
-[![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/pandeySAN/pandeySAN/output/github-contribution-grid-snake-dark.svg)](https://github.com/pandeySAN)
+![Snake Animation](https://github.com/pandeySAN/pandeySAN/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
