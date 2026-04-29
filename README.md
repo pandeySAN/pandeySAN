@@ -1,371 +1,168 @@
 <div align="center">
 
-# 👨‍💻 Sanchit Pandey
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sanchit%20Pandey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20AI%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### Software Developer • MERN Stack • AI & ML Enthusiast
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Enthusiast;LeetCode+Top+4%25+%7C+1900%2B+Rating;Open+Source+Contributor+%7C+FOSSEE+IIT+Bombay;Building+Scalable+Systems+%26+AI+Solutions)](https://git.io/typing-svg)
+<div align="center">
 
-<p>
-  <a href="https://www.linkedin.com/in/pandeysanc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sancpan02@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://my-portfolio-mu-opal-11.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://leetcode.com/u/sanchitpandey7687"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://codeforces.com/profile/pandeySAN"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend+%26+Distributed+Systems+Engineer;Multi-Agent+AI+%7C+LangGraph+%7C+RAG+Pipelines;LeetCode+1900%2B+%E2%80%A2+Top+4%25+Globally;IIT+Bombay+FOSSEE+Research+Fellow)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=pandeySAN&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pandeysanc-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeysanc)
+[![Email](https://img.shields.io/badge/Email-sancpan02@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sancpan02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-mu-opal-11.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1900%2B%20%7C%20Top%204%25-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanchitpandey7687)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%201543-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pandeySAN)
 
 </div>
 
 ---
 
-## 🚀 Quick Highlights
+## `$ whoami`
 
-```typescript
-const sanchit = {
-    title: "Software Developer @ Chroma-lab Technologies",
-    education: "B.Tech CSE (AI & ML) | KMUCU Lucknow",
-    location: "Lucknow, Uttar Pradesh, India",
-    
-    current_focus: [
-        "Distributed Systems Architecture",
-        "AI-Powered Applications",
-        "Performance Optimization",
-        "Cloud-Native Development"
+```python
+sanchit = {
+    "role":       "Software Developer @ Chroma-lab Technologies",
+    "education":  "B.Tech CSE (AI & ML) — KMCLU Lucknow  |  2022–2026",
+    "location":   "Lucknow, India  |  Open to Relocation",
+
+    "focus": [
+        "High-concurrency distributed backends",
+        "Multi-agent AI orchestration (LangGraph, RAG)",
+        "Compiler-grade static analysis & tooling",
+        "Cloud-native infra on AWS",
     ],
-    
-    achievements: {
-        leetcode: { solved: "550+", rating: "1900+", rank: "Top 4%" },
-        codeforces: { rating: 1543, title: "Specialist" },
-        certifications: ["IBM Flutter & Dart", "FOSSEE Open Source"],
-        impact: "40% performance boost | 60% deployment efficiency"
+
+    "stats": {
+        "leetcode":    "1900+ rating  •  550+ solved  •  Top 4% globally",
+        "codeforces":  "Specialist  •  1543 rating",
+        "production":  "50K+ MAU  •  99.5%+ uptime  •  p99 < 200ms",
     },
-    
-    ask_me_about: ["Backend Architecture", "System Design", "DSA", "AI/ML"],
-    fun_fact: "I turn coffee into scalable microservices ☕ → 🚀"
-};
+}
 ```
 
 ---
 
-## 💼 Professional Journey
-
-<details open>
-<summary><b>🔹 Software Developer — Chroma-lab Technologies Pvt. Ltd.</b> <i>(Nov 2025 – Present)</i></summary>
-<br>
-
-**Building production-grade distributed systems**
-
-- 🏗️ Architected **RESTful microservices** with Django REST Framework + PostgreSQL
-- 🔐 Implemented **JWT authentication & Role-Based Access Control**
-- ⚡ Boosted database performance by **40%** using Redis caching & strategic indexing
-- ☁️ Designed AWS infrastructure (**EC2, S3, Lambda**) for high availability
-- 🔄 Established **CI/CD pipelines** with GitHub Actions (85% test coverage)
-
-**Tech Stack:** `Django` `PostgreSQL` `Redis` `AWS` `Docker` `GitHub Actions`
-
-</details>
-
-<details>
-<summary><b>🔹 Research Fellow — FOSSEE, IIT Bombay</b> <i>(Aug 2025 – Oct 2025)</i></summary>
-<br>
-
-**Open-source contributions to IIT Bombay's FOSSEE initiative**
-
-- 🎨 Engineered configurable **Drupal 10 theme** with advanced theming APIs
-- 🚀 Reduced deployment time by **60%** through automation
-- 📱 Built custom JavaScript modules with responsive layouts
-- ⚡ Achieved **95+ Lighthouse performance score**
-- 📚 Published comprehensive open-source documentation
-
-**Tech Stack:** `Drupal 10` `PHP` `JavaScript` `Twig` `YAML` `Linux`
-
-</details>
-
-<details>
-<summary><b>🔹 Software Intern — Trillion Skyline International LLP</b> <i>(Jan 2025 – Mar 2025)</i></summary>
-<br>
-
-**Full-stack development with focus on scalable APIs**
-
-- 🔌 Built production-grade **REST APIs** using Node.js + Express + MongoDB
-- 📊 Designed normalized database schemas with query optimization
-- ⚡ Improved read performance by **35%** through indexing strategies
-- 🔒 Implemented secure authentication with **JWT & bcrypt**
-- 🎨 Developed responsive React UI increasing engagement by **28%**
-
-**Tech Stack:** `Node.js` `Express` `MongoDB` `React` `JWT` `REST API`
-
-</details>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-### Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Tools & Testing
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|-----------|-------|
-| 🤖 **AI Interview Platform** | LLM-powered interview simulator with real-time feedback | `Gemini API` `React` `Firebase` `Vercel` | [Demo](#) |
-| 🌱 **Plant Disease Detection** | CNN-based disease classification (94% accuracy) | `FastAPI` `TensorFlow` `Docker` `React` | [Repo](#) |
-| 🔗 **Social Network API** | Distributed social platform with microservices | `Node.js` `PostgreSQL` `Redis` `AWS` | [Docs](#) |
-
-</div>
-
-<details>
-<summary><b>View All Projects →</b></summary>
-
-### 🤖 AI Interview Preparation Platform
-Real-time AI-powered mock interviews with personalized feedback
-- ✨ Integrated **Gemini LLM** for intelligent question generation
-- 🔐 Firebase Authentication & Firestore database
-- 🚀 Deployed on Vercel with **CI/CD pipeline**
-- 📊 Analytics dashboard for tracking progress
-
-### 🌱 Real-Time Plant Disease Detection
-CNN model for agricultural disease identification
-- 🧠 Custom **CNN architecture** achieving **94% accuracy**
-- ⚡ FastAPI backend with **async processing**
-- 🐳 Dockerized deployment for portability
-- 🎨 Material UI frontend with image upload
-
-### 🔗 Distributed Social Network API
-Scalable social media backend with microservices
-- 📱 Features: Posts, comments, likes, friend requests
-- 🔐 **JWT authentication & RBAC**
-- ⚡ **Redis caching** for optimized performance
-- ☁️ Deployed on **AWS EC2** with load balancing
-- ✅ **95% test coverage** with automated testing
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 Contribution Activity
-
-![Contribution Graph](https://ghchart.rshah.org/58A6FF/pandeySAN)
-
-### 💻 Coding Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pandeySAN&theme=tokyonight)
-
-</div>
-
----
-
-## 🏆 Achievements & Coding Profiles
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sanchitpandey7687?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/pandeySAN)
-
-<br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-550%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanchitpandey7687)
-[![LeetCode Rating](https://img.shields.io/badge/Rating-1900%2B-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanchitpandey7687)
-[![Top Percentage](https://img.shields.io/badge/Rank-Top_4%25-brightgreen?style=for-the-badge)](https://leetcode.com/u/sanchitpandey7687)
-
-<br/>
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pandeySAN)
-[![Rating](https://img.shields.io/badge/Rating-1543-blue?style=for-the-badge)](https://codeforces.com/profile/pandeySAN)
-
-</div>
-
-### 🎖️ Certifications
-- 📱 **IBM Certified** — Flutter & Dart Mobile App Development
-- 🧑‍🏫 **FOSSEE IIT Bombay** — Open Source Contribution & Research
-- ☁️ **AWS Solutions Architect** (In Progress)
-
-### 📚 Publications & Contributions
-- 🔬 Open-source Drupal theme adopted across **IIT Bombay projects**
-- 📖 Technical documentation published on **FOSSEE portal**
-- 🤝 **Active contributor to Node.js and Django communities**
-
----
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🏗️ System Design
-- Microservices Architecture
-- Database Design & Optimization
-- Caching Strategies
-- Load Balancing & Scaling
-- API Design Patterns
-
-</td>
-<td align="center" width="33%">
-
-### 🔧 Backend Development
-- RESTful API Development
-- Authentication & Authorization
-- Database Management
-- Performance Optimization
-- Cloud Infrastructure
-
-</td>
-<td align="center" width="33%">
-
-### 🤖 AI & ML
-- LLM Integration
-- Computer Vision
-- Model Deployment
-- Data Processing
-- MLOps
-
-</td>
-</tr>
-</table>
-
----
-
-## 💡 Core Competencies
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🏗️ System Design
-- Microservices Architecture
-- Database Design & Optimization
-- Caching Strategies
-- Load Balancing & Scaling
-- API Design Patterns
-
-</td>
-<td align="center" width="33%">
-
-### 🔧 Backend Development
-- RESTful API Development
-- Authentication & Authorization
-- Database Management
-- Performance Optimization
-- Cloud Infrastructure
-
-</td>
-<td align="center" width="33%">
-
-### 🤖 AI & ML
-- LLM Integration
-- Computer Vision
-- Model Deployment
-- Data Processing
-- MLOps
-
-</td>
-</tr>
-</table>
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision!
-
-### 📧 Contact Information
+## 🛠 Tech Stack
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
-#### 📬 Email
-**[sancpan02@gmail.com](mailto:sancpan02@gmail.com)**
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend & AI**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=python&logoColor=white)
 
 </td>
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
-#### 📱 Phone
-**[+91-9161727561](tel:+919161727561)**
+**Databases & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeysanc)
-[![Email](https://img.shields.io/badge/Email-sancpan02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sancpan02@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-mu-opal-11.vercel.app)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--9161727561-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919161727561)
+## 💼 Experience
 
-### 💬 Ask me about
-`System Design` • `Backend Architecture` • `DSA` • `AI/ML Integration` • `Cloud Infrastructure`
+**Software Developer (Full-time) — Chroma-Lab Technologies** `Nov 2025 – Present`
+- Architected backend managing 250GB+ DB at 500+ req/sec; slashed p99 latency **40%** (250ms → 150ms) via B-tree composite indexes and layered Redis caching — zero infra cost increase
+- Engineered AWS stack (EC2, Nginx, Gunicorn) achieving **99.5%+ uptime** over 90 days; secured auth with Razorpay idempotency, JWT + OAuth 2.0 RBAC — zero security incidents
+- Built GitHub Actions CI/CD pipeline (lint → PyTest → staging → deploy); raised test coverage **0% → 85%**, cut deployment cycle **50%**
+
+**Summer Research Fellow — FOSSEE, IIT Bombay** `Aug 2025 – Oct 2025`
+- Built open-source Drupal 10 theme adopted by IIT & NIT portals nationwide within 60 days, serving **100K+ students**
+- Achieved **Lighthouse 95+** score; cut deployment effort **60%** through automation and modular architecture
+
+**Software Engineering Intern — Trillion Skyline International** `Jan 2025 – Mar 2025`
+- Built Node.js microservices for **50K+ MAU**; improved MongoDB throughput **35%** via N+1 elimination and compound indexing
+- Engineered React SPA with route-level code splitting; cut page-load time **20%**, boosted mobile engagement **28%**
+
+---
+
+## 🚀 Projects
+
+### [`FarmerAI`](https://github.com/pandeySAN) — Distributed Multi-Agent AI Platform
+> `FastAPI` `LangGraph` `XGBoost` `Pinecone` `PostgreSQL` `AWS ECS`
+
+- Orchestrated **5-agent LangGraph DAG** with `asyncio.gather` fan-out; delivered bilingual SSE-streamed recommendations at **sub-3s latency**
+- XGBoost classifier (**87% F1**) + Pinecone RAG over 50K+ agricultural documents; fault-tolerant circuit-breaker retry with 100% availability against API failures
+
+---
+
+### [`PyLint Pro`](https://github.com/pandeySAN) — Compiler-Grade Static Analysis Engine
+> `Python` `AST` `Control Flow Graph` `Data Flow Analysis`
+
+- Constructed full CFG via AST traversal (if/else, loops, break/continue, function scopes); exposed unreachable-code paths via BFS — **zero false positives** on 100-case test suite
+- Bidirectional worklist fixed-point algorithm for reaching-definitions and liveness analysis; security scanner for SQL injection, hardcoded secrets, and taint-tracked command injection at **sub-1s** on 10K-line codebases
+
+---
+
+### [`Cerebro`](https://cere-bro.in) — Healthcare Appointment Platform *(Production)*
+> `Django REST` `Flutter` `PostgreSQL` `AWS EC2` `Razorpay`
+
+- Production app at [cere-bro.in](https://cere-bro.in) — patient-facing Flutter app + doctor-facing Clinic Partner app on shared Django REST backend
+- Razorpay Route marketplace payment splitting, Jitsi video consultations, JWT auth; deployed on AWS EC2 with Nginx
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pandeySAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeySAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
+
+<br/><br/>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sanchitpandey7687?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0)](https://leetcode.com/u/sanchitpandey7687)
 
 </div>
 
 ---
 
+## 🏅 Achievements
+
+| Platform | Stat |
+|---|---|
+| 🟡 LeetCode | **1900+ rating** · 550+ problems solved · **Top 4% globally** (788K+ users) |
+| 🔵 Codeforces | **Specialist** · 1543 rating |
+| 🎓 IIT Bombay FOSSEE | Open-source theme deployed across IIT & NIT portals nationwide |
+| 📜 IBM Certified | Flutter & Dart Mobile App Development |
+
+---
+
 <div align="center">
 
-### ⚡ Fun Fact
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
 *"The best error message is the one that never shows up."*
 
-**Thanks for visiting! 😊**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
