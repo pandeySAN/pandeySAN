@@ -1,87 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sanchit%20Pandey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20AI%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:00d4ff,100:bf00ff&height=240&section=header&text=SANCHIT%20PANDEY&fontSize=58&fontColor=ffffff&fontAlignY=45&desc=%3E_%20Software%20Engineer%20%2F%20Backend%20%26%20AI%20Systems&descAlignY=65&descSize=16&animation=fadeIn&stroke=00ff41&strokeWidth=1" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend+%26+Distributed+Systems+Engineer;Multi-Agent+AI+%7C+LangGraph+%7C+RAG+Pipelines;LeetCode+1900%2B+%E2%80%A2+Top+4%25+Globally;IIT+Bombay+FOSSEE+Research+Fellow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%80%94+Backend+%26+AI+Systems+Engineer;%24+leetcode+--rating+1900%2B+--rank+%22Top+4%25+Globally%22;%24+uptime+--server+production+--result+99.5%25;%24+latency+--api+p99+--before+250ms+--after+150ms;%24+users+--platform+cerebro+--mau+50000%2B;%24+location+Lucknow%2C+India+--open-to-relocation+true)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pandeysanc-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeysanc)
-[![Email](https://img.shields.io/badge/Email-sancpan02@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sancpan02@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-mu-opal-11.vercel.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1900%2B%20%7C%20Top%204%25-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanchitpandey7687)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%201543-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pandeySAN)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/▸_LinkedIn-pandeysanc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeysanc)
+[![Gmail](https://img.shields.io/badge/▸_Email-sancpan02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sancpan02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/▸_Portfolio-Live-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://my-portfolio-mu-opal-11.vercel.app)
+[![LeetCode](https://img.shields.io/badge/▸_LeetCode-1900%2B_·_Top_4%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanchitpandey7687)
+[![Codeforces](https://img.shields.io/badge/▸_Codeforces-Specialist_1543-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pandeySAN)
 
 </div>
 
 ---
 
-## `$ whoami`
+## ▸ `boot --system sanchit`
 
-```python
-sanchit = {
-    "role":       "Software Developer @ Chroma-lab Technologies",
-    "education":  "B.Tech CSE (AI & ML) — KMCLU Lucknow  |  2022–2026",
-    "location":   "Lucknow, India  |  Open to Relocation",
-
-    "focus": [
-        "High-concurrency distributed backends",
-        "Multi-agent AI orchestration (LangGraph, RAG)",
-        "Compiler-grade static analysis & tooling",
-        "Cloud-native infra on AWS",
-    ],
-
-    "stats": {
-        "leetcode":    "1900+ rating  •  550+ solved  •  Top 4% globally",
-        "codeforces":  "Specialist  •  1543 rating",
-        "production":  "50K+ MAU  •  99.5%+ uptime  •  p99 < 200ms",
-    },
-}
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    SYSTEM INITIALIZATION                         ║
+╠══════════════════════════════════════════════════════════════════╣
+║  NAME        →  Sanchit Pandey                                   ║
+║  ROLE        →  Software Developer @ Chroma-lab Technologies     ║
+║  EDUCATION   →  B.Tech CSE (AI & ML) · KMCLU Lucknow · 2022–26  ║
+║  LOCATION    →  Lucknow, India  [relocation: ENABLED]            ║
+╠══════════════════════════════════════════════════════════════════╣
+║  FOCUS       →  Distributed Backends · Multi-Agent AI · RAG      ║
+║  STATUS      →  [ ONLINE ] · 99.5%+ uptime · p99 < 200ms        ║
+╠══════════════════════════════════════════════════════════════════╣
+║  LEETCODE    →  1900+ · 550+ solved · Top 4% (788K+ users)       ║
+║  CODEFORCES  →  Specialist · Rating 1543                         ║
+║  PROD        →  50K+ MAU · 250GB+ DB · 500+ req/sec              ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🛠 Tech Stack
+## ▸ `cat /proc/skills`
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
-**Languages**
+**`// LANGUAGES`**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-**Backend & AI**
+**`// BACKEND & AI`**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092E20&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=python&logoColor=FF6F00)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0d1117?style=flat-square&logo=openai&logoColor=00d4ff)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top">
 
-**Databases & Infra**
+**`// DATA & INFRA`**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=flat-square&logo=pinecone&logoColor=00ff41)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=python&logoColor=FF6F00)
 
-**Cloud & DevOps**
+**`// CLOUD & DEVOPS`**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
 
 </td>
 </tr>
@@ -89,80 +94,174 @@ sanchit = {
 
 ---
 
-## 💼 Experience
+## ▸ `git log --oneline experience`
 
-**Software Developer (Full-time) — Chroma-Lab Technologies** `Nov 2025 – Present`
-- Architected backend managing 250GB+ DB at 500+ req/sec; slashed p99 latency **40%** (250ms → 150ms) via B-tree composite indexes and layered Redis caching — zero infra cost increase
-- Engineered AWS stack (EC2, Nginx, Gunicorn) achieving **99.5%+ uptime** over 90 days; secured auth with Razorpay idempotency, JWT + OAuth 2.0 RBAC — zero security incidents
-- Built GitHub Actions CI/CD pipeline (lint → PyTest → staging → deploy); raised test coverage **0% → 85%**, cut deployment cycle **50%**
+```diff
++ [Nov 2025 → Present]  Software Developer (Full-time) — Chroma-Lab Technologies
++ [Aug 2025 → Oct 2025] Summer Research Fellow — FOSSEE, IIT Bombay  
++ [Jan 2025 → Mar 2025] Software Engineering Intern — Trillion Skyline International
+```
 
-**Summer Research Fellow — FOSSEE, IIT Bombay** `Aug 2025 – Oct 2025`
-- Built open-source Drupal 10 theme adopted by IIT & NIT portals nationwide within 60 days, serving **100K+ students**
-- Achieved **Lighthouse 95+** score; cut deployment effort **60%** through automation and modular architecture
+<details>
+<summary><b>▸ expand --verbose</b></summary>
 
-**Software Engineering Intern — Trillion Skyline International** `Jan 2025 – Mar 2025`
-- Built Node.js microservices for **50K+ MAU**; improved MongoDB throughput **35%** via N+1 elimination and compound indexing
-- Engineered React SPA with route-level code splitting; cut page-load time **20%**, boosted mobile engagement **28%**
+<br/>
+
+**`[Nov 2025 → Present]` Software Developer — Chroma-Lab Technologies**
+```
+● 250GB+ database · 500+ req/sec · p99 latency 40% ↓  (250ms → 150ms)
+  └── B-tree composite indexes + EXPLAIN ANALYZE query plans + layered Redis cache
+● 99.5%+ uptime over 90 days on AWS (EC2, Nginx, Gunicorn)
+  └── JWT + OAuth 2.0 RBAC · Razorpay idempotency · zero security incidents
+● GitHub Actions CI/CD: lint → PyTest → staging → deploy
+  └── test coverage 0% → 85% · deployment cycle cut 50%
+  └── mentored 2 junior developers on code review standards
+```
+
+**`[Aug–Oct 2025]` Research Fellow — FOSSEE, IIT Bombay**
+```
+● Open-source Drupal 10 theme → adopted by IIT & NIT portals within 60 days
+  └── serving 100K+ students nationwide · Lighthouse score 95+
+● Deployment effort cut 60% via automation and modular architecture
+```
+
+**`[Jan–Mar 2025]` Software Engineering Intern — Trillion Skyline International**
+```
+● Node.js microservices for 50K+ MAU
+  └── MongoDB throughput +35% via N+1 elimination + compound indexes · sub-200ms p99
+● React SPA with route-level code splitting + lazy loading
+  └── page-load time -20% · mobile engagement +28% across 15K+ daily sessions
+```
+
+</details>
 
 ---
 
-## 🚀 Projects
+## ▸ `ls -la projects/`
 
-### [`FarmerAI`](https://github.com/pandeySAN) — Distributed Multi-Agent AI Platform
-> `FastAPI` `LangGraph` `XGBoost` `Pinecone` `PostgreSQL` `AWS ECS`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Orchestrated **5-agent LangGraph DAG** with `asyncio.gather` fan-out; delivered bilingual SSE-streamed recommendations at **sub-3s latency**
-- XGBoost classifier (**87% F1**) + Pinecone RAG over 50K+ agricultural documents; fault-tolerant circuit-breaker retry with 100% availability against API failures
+### 🤖 [`FarmerAI`](https://github.com/pandeySAN)
+**Distributed Multi-Agent AI Platform**
+
+```
+Stack → FastAPI · LangGraph · XGBoost
+        Pinecone · PostgreSQL · AWS ECS
+```
+- 5-agent LangGraph DAG with `asyncio.gather` fan-out parallelism
+- Bilingual SSE-streamed recommendations at **sub-3s latency**
+- XGBoost classifier **87% F1** + Pinecone RAG on 50K+ documents
+- Circuit-breaker retry → **100% availability** against API failures
+- JWT + OAuth 2.0 RBAC on AWS ECS · re-analysis overhead **-60%**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 [`PyLint Pro`](https://github.com/pandeySAN)
+**Compiler-Grade Static Analysis Engine**
+
+```
+Stack → Python · AST · CFG
+        Data Flow Analysis
+```
+- Full CFG via AST traversal (if/else, loops, break/continue)
+- Unreachable-code paths via BFS — **zero false positives** (100-case suite)
+- Bidirectional worklist fixed-point for reaching-definitions & liveness
+- Security scanner: SQL injection · hardcoded secrets · taint tracking
+- **Sub-1s** execution on 10K-line codebases
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🏥 [`Cerebro`](https://cere-bro.in) — *Production Healthcare Platform*
+**`Django REST` `Flutter` `PostgreSQL` `AWS EC2` `Razorpay Route`**
+
+Live at **[cere-bro.in](https://cere-bro.in)** — patient-facing Flutter app + doctor-facing Clinic Partner app, unified Django REST backend
+- Razorpay Route marketplace payment splitting · Jitsi video consultations · JWT + RBAC auth
+- Deployed on AWS EC2 with Nginx · PostgreSQL on RDS · GitHub Actions CI/CD
+
+</td>
+</tr>
+</table>
 
 ---
 
-### [`PyLint Pro`](https://github.com/pandeySAN) — Compiler-Grade Static Analysis Engine
-> `Python` `AST` `Control Flow Graph` `Data Flow Analysis`
-
-- Constructed full CFG via AST traversal (if/else, loops, break/continue, function scopes); exposed unreachable-code paths via BFS — **zero false positives** on 100-case test suite
-- Bidirectional worklist fixed-point algorithm for reaching-definitions and liveness analysis; security scanner for SQL injection, hardcoded secrets, and taint-tracked command injection at **sub-1s** on 10K-line codebases
-
----
-
-### [`Cerebro`](https://cere-bro.in) — Healthcare Appointment Platform *(Production)*
-> `Django REST` `Flutter` `PostgreSQL` `AWS EC2` `Razorpay`
-
-- Production app at [cere-bro.in](https://cere-bro.in) — patient-facing Flutter app + doctor-facing Clinic Partner app on shared Django REST backend
-- Razorpay Route marketplace payment splitting, Jitsi video consultations, JWT auth; deployed on AWS EC2 with Nginx
-
----
-
-## 📊 GitHub Stats
+## ▸ `neofetch --stats`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pandeySAN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeySAN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=pandeySAN&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=c9d1d9&ring_color=bf00ff" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeySAN&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
 
 <br/><br/>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sanchitpandey7687?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0)](https://leetcode.com/u/sanchitpandey7687)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pandeySAN&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=bf00ff&currStreakLabel=00d4ff&sideLabels=00ff41&dates=888888" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pandeySAN&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4" />
 
 </div>
 
 ---
 
-## 🏅 Achievements
+## ▸ `solve --platform leetcode`
 
-| Platform | Stat |
-|---|---|
-| 🟡 LeetCode | **1900+ rating** · 550+ problems solved · **Top 4% globally** (788K+ users) |
-| 🔵 Codeforces | **Specialist** · 1543 rating |
-| 🎓 IIT Bombay FOSSEE | Open-source theme deployed across IIT & NIT portals nationwide |
-| 📜 IBM Certified | Flutter & Dart Mobile App Development |
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sanchitpandey7687?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/sanchitpandey7687)
+
+</div>
+
+```
+RATING     →  1900+                         RANK  →  Top 4% globally (788K+ users)
+SOLVED     →  550+                          BADGE →  Knight
+TOPICS     →  Dynamic Programming · Graphs · System Design · Segment Trees · Tries
+CODEFORCES →  Specialist · 1543 rating
+```
+
+---
+
+## ▸ `plot --graph contribution`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pandeySAN&theme=react-dark&bg_color=0d1117&color=00ff41&line=00d4ff&point=bf00ff&area=true&hide_border=true)](https://github.com/pandeySAN)
+
+</div>
+
+---
+
+## ▸ `cat achievements.log`
+
+```
+[✓] LeetCode       → 1900+ rating · 550+ solved · Top 4% globally (788K+ users)
+[✓] Codeforces     → Specialist · 1543 rating
+[✓] IIT Bombay     → FOSSEE Research Fellow · Drupal theme → 100K+ students nationwide
+[✓] Production     → Cerebro at cere-bro.in · 50K+ MAU · 99.5%+ uptime
+[✓] IBM Certified  → Flutter & Dart Mobile App Development
+[✓] Impact         → p99 latency -40% · deployment cycle -50% · test coverage 0%→85%
+```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+```
+╔═══════════════════════════════════════════════╗
+║  AVAILABLE FOR  →  SDE Roles · India (Any)   ║
+║  OPEN TO        →  Relocation & Remote        ║
+║  CONTACT        →  sancpan02@gmail.com        ║
+╚═══════════════════════════════════════════════╝
+```
 
 *"The best error message is the one that never shows up."*
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:bf00ff,50:00d4ff,100:00ff41&height=120&section=footer&reversal=true" width="100%"/>
 
 </div>
