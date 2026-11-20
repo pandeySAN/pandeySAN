@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/▸_LinkedIn-pandeysanc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeysanc)
 [![Gmail](https://img.shields.io/badge/▸_Email-sancpan02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sancpan02@gmail.com)
 [![Portfolio](https://img.shields.io/badge/▸_Portfolio-Live-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://my-portfolio-mu-opal-11.vercel.app)
-[![LeetCode](https://img.shields.io/badge/▸_LeetCode-1900%2B_·_Top_4%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanchitpandey7687)
+[![LeetCode](https://img.shields.io/badge/▸_LeetCode-1900%2B_·_Top_4%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pandeySAN)
 [![Codeforces](https://img.shields.io/badge/▸_Codeforces-Specialist_1543-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pandeySAN)
 
 </div>
