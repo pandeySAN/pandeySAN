@@ -214,7 +214,7 @@ Live at **[cere-bro.in](https://cere-bro.in)** — patient-facing Flutter app + 
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sanchitpandey7687?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/sanchitpandey7687)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/pandeySAN?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/pandeySAN)
 
 </div>
 
