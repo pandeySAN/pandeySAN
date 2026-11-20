@@ -1,92 +1,145 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:00d4ff,100:bf00ff&height=240&section=header&text=SANCHIT%20PANDEY&fontSize=58&fontColor=ffffff&fontAlignY=45&desc=%3E_%20Software%20Engineer%20%2F%20Backend%20%26%20AI%20Systems&descAlignY=65&descSize=16&animation=fadeIn&stroke=00ff41&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00d4ff,100:bf00ff&height=240&section=header&text=SANCHIT%20PANDEY&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Flutter%20%C2%B7%20Django%20%C2%B7%20AI%20Systems&descAlignY=60&descSize=17&animation=twinkling" width="100%"/>
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%80%94+Backend+%26+AI+Systems+Engineer;%24+leetcode+--rating+1900%2B+--rank+%22Top+4%25+Globally%22;%24+uptime+--server+production+--result+99.5%25;%24+latency+--api+p99+--before+250ms+--after+150ms;%24+users+--platform+cerebro+--mau+50000%2B;%24+location+Lucknow%2C+India+--open-to-relocation+true)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=640&lines=Software+Engineer+%C2%B7+Flutter+%26+Django;One+API+powering+three+Flutter+apps;390%2B+backend+tests+%C2%B7+14+Celery+jobs;LeetCode+Knight+%C2%B7+rating+1902;Open+to+roles+across+India)](https://git.io/typing-svg)
 
 <br/>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/▸_LinkedIn-pandeysanc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeysanc)
-[![Gmail](https://img.shields.io/badge/▸_Email-sancpan02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sancpan02@gmail.com)
-[![Portfolio](https://img.shields.io/badge/▸_Portfolio-Live-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://my-portfolio-mu-opal-11.vercel.app)
-[![LeetCode](https://img.shields.io/badge/▸_LeetCode-1900%2B_·_Top_4%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pandeySAN)
-[![Codeforces](https://img.shields.io/badge/▸_Codeforces-Specialist_1543-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pandeySAN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pandeysanc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeysanc)
+[![Email](https://img.shields.io/badge/Email-sancpan02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sancpan02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://my-portfolio-mu-opal-11.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_%C2%B7_1902-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pandeySAN)
+[![Play Store](https://img.shields.io/badge/Cerebro-Play_Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=in.cerebro.app)
 
 </div>
 
 ---
 
-## ▸ `boot --system sanchit`
+## 👋 About
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    SYSTEM INITIALIZATION                         ║
-╠══════════════════════════════════════════════════════════════════╣
-║  NAME        →  Sanchit Pandey                                   ║
-║  ROLE        →  Software Developer @ Chroma-lab Technologies     ║
-║  EDUCATION   →  B.Tech CSE (AI & ML) · KMCLU Lucknow · 2022–26  ║
-║  LOCATION    →  Lucknow, India  [relocation: ENABLED]            ║
-╠══════════════════════════════════════════════════════════════════╣
-║  FOCUS       →  Distributed Backends · Multi-Agent AI · RAG      ║
-║  STATUS      →  [ ONLINE ] · 99.5%+ uptime · p99 < 200ms        ║
-╠══════════════════════════════════════════════════════════════════╣
-║  LEETCODE    →  1900+ · 550+ solved · Top 4% (788K+ users)       ║
-║  CODEFORCES  →  Specialist · Rating 1543                         ║
-║  PROD        →  50K+ MAU · 250GB+ DB · 500+ req/sec              ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+- Software Engineer at **Chroma-Lab Technologies**, Lucknow (full-time via PPO, Jun 2026 – present)
+- I build and ship **Cerebro**, a live mental-health and clinic-appointment platform
+- B.Tech CSE (AI & ML), KMCLU Lucknow, 2022 – 2026
+- Based in Lucknow. Open to relocation anywhere in India.
 
 ---
 
-## ▸ `cat /proc/skills`
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+**Mobile & Web**
+
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Drupal](https://img.shields.io/badge/Drupal-0d1117?style=for-the-badge&logo=drupal&logoColor=0678BE)
+
+**Backend**
+
+![Django](https://img.shields.io/badge/Django_REST-0d1117?style=for-the-badge&logo=django&logoColor=44B78B)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Celery](https://img.shields.io/badge/Celery-0d1117?style=for-the-badge&logo=celery&logoColor=37814A)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS_EC2-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+
+**AI / ML**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langchain&logoColor=00d4ff)
+![Gemini](https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+
+</div>
+
+---
+
+## 💼 Experience
+
+### Chroma-Lab Technologies — Software Engineer (Flutter, Django)
+`Jun 2026 – Present` full-time via PPO · `Nov 2025 – May 2026` intern
+
+- **Cerebro**: one Django REST API powering three Flutter apps (patient, doctor, admin). JWT and Google sign-in, push notifications, and Razorpay Route payments that split each fee to the doctor automatically.
+- **Prescription module**: voice dictation (Google Speech-to-Text, English/Hindi), 400+ medicine database with fuzzy search, safety checks (dose range, look-alike names, duplicates, allergies), versioned drafts, audit logs, PDF export. Released behind feature flags.
+- **CI/CD**: GitHub Actions tests every push on PostgreSQL and Redis, then deploys the backend and three Flutter web apps to AWS EC2 (Nginx, Gunicorn) in about 3–5 minutes with no manual steps.
+- **Quality**: 390+ backend tests and 14 Celery + Redis background jobs (reminders, content moderation, Play Console and Crashlytics metrics sync for the admin dashboard).
+- **Crisis-alert classifier**: evaluated recall and false-positive rate on a 71-entry labeled set. Shipped behind a feature flag, pending clinical review.
+
+### FOSSEE, IIT Bombay — Web Development Intern
+`May 2025 – Jul 2025` Summer Research Fellowship
+
+- Built a website for IIT hackathons on **Drupal** (open-source CMS).
+- Made a custom theme so organizers can set up their own event site with no code: add images, edit text, change layout.
+- Everything is open source, so other institutes can reuse it.
+
+---
+
+## 🚀 Projects
 
 <table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-**`// LANGUAGES`**
+### 🏥 [Cerebro](https://play.google.com/store/apps/details?id=in.cerebro.app)
+**Live mental-health and clinic platform**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-
-**`// BACKEND & AI`**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092E20&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=python&logoColor=FF6F00)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0d1117?style=flat-square&logo=openai&logoColor=00d4ff)
+```
+Django REST · Flutter · PostgreSQL
+Celery · Redis · AWS EC2 · Razorpay
+```
+- 1 API, 3 Flutter apps (patient, doctor, admin)
+- Razorpay Route automatic fee split
+- 390+ tests · 14 background jobs
+- Voice prescriptions in English and Hindi
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
-**`// DATA & INFRA`**
+### 🔬 [PyLint Pro](https://github.com/pandeySAN)
+**Static analyzer for Python, built from scratch**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=flat-square&logo=pinecone&logoColor=00ff41)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=python&logoColor=FF6F00)
+```
+Python (stdlib only) · AST · CFG
+Dataflow analysis
+```
+- Control-flow graphs, liveness and reaching-definitions
+- Catches use-before-assignment, None dereferences, unreachable code, infinite loops
+- Security checks: SQL/command injection, hard-coded secrets, `eval`
+- Tested on Flask and requests: **8% false positives** (manual review)
+- 70+ tests · CI on Python 3.8, 3.10, 3.12 · CLI with console, JSON, HTML reports
 
-**`// CLOUD & DEVOPS`**
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
+### 🌾 [FarmerAI](https://github.com/pandeySAN)
+**Multi-agent crop advisor**
+
+```
+FastAPI · LangGraph · Gemini · Next.js 14 · PostgreSQL · AWS
+```
+- 5 agents (weather, crop, market, resource, memory) feeding Gemini for advice in Hindi and English, streamed with Server-Sent Events
+- Crop classifier trained on a self-built dataset of 700 samples (**85% accuracy**)
+- Live OpenWeatherMap and Agmarknet APIs with fallbacks, so the app still answers when an API is down
+- JWT auth, Alembic migrations, 95 tests with mocked APIs, CI, deployed on AWS
 
 </td>
 </tr>
@@ -94,103 +147,7 @@
 
 ---
 
-## ▸ `git log --oneline experience`
-
-```diff
-+ [Nov 2025 → Present]  Software Developer (Full-time) — Chroma-Lab Technologies
-+ [Aug 2025 → Oct 2025] Summer Research Fellow — FOSSEE, IIT Bombay  
-+ [Jan 2025 → Mar 2025] Software Engineering Intern — Trillion Skyline International
-```
-
-<details>
-<summary><b>▸ expand --verbose</b></summary>
-
-<br/>
-
-**`[Nov 2025 → Present]` Software Developer — Chroma-Lab Technologies**
-```
-● 250GB+ database · 500+ req/sec · p99 latency 40% ↓  (250ms → 150ms)
-  └── B-tree composite indexes + EXPLAIN ANALYZE query plans + layered Redis cache
-● 99.5%+ uptime over 90 days on AWS (EC2, Nginx, Gunicorn)
-  └── JWT + OAuth 2.0 RBAC · Razorpay idempotency · zero security incidents
-● GitHub Actions CI/CD: lint → PyTest → staging → deploy
-  └── test coverage 0% → 85% · deployment cycle cut 50%
-  └── mentored 2 junior developers on code review standards
-```
-
-**`[Aug–Oct 2025]` Research Fellow — FOSSEE, IIT Bombay**
-```
-● Open-source Drupal 10 theme → adopted by IIT & NIT portals within 60 days
-  └── serving 100K+ students nationwide · Lighthouse score 95+
-● Deployment effort cut 60% via automation and modular architecture
-```
-
-**`[Jan–Mar 2025]` Software Engineering Intern — Trillion Skyline International**
-```
-● Node.js microservices for 50K+ MAU
-  └── MongoDB throughput +35% via N+1 elimination + compound indexes · sub-200ms p99
-● React SPA with route-level code splitting + lazy loading
-  └── page-load time -20% · mobile engagement +28% across 15K+ daily sessions
-```
-
-</details>
-
----
-
-## ▸ `ls -la projects/`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [`FarmerAI`](https://github.com/pandeySAN)
-**Distributed Multi-Agent AI Platform**
-
-```
-Stack → FastAPI · LangGraph · XGBoost
-        Pinecone · PostgreSQL · AWS ECS
-```
-- 5-agent LangGraph DAG with `asyncio.gather` fan-out parallelism
-- Bilingual SSE-streamed recommendations at **sub-3s latency**
-- XGBoost classifier **87% F1** + Pinecone RAG on 50K+ documents
-- Circuit-breaker retry → **100% availability** against API failures
-- JWT + OAuth 2.0 RBAC on AWS ECS · re-analysis overhead **-60%**
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 [`PyLint Pro`](https://github.com/pandeySAN)
-**Compiler-Grade Static Analysis Engine**
-
-```
-Stack → Python · AST · CFG
-        Data Flow Analysis
-```
-- Full CFG via AST traversal (if/else, loops, break/continue)
-- Unreachable-code paths via BFS — **zero false positives** (100-case suite)
-- Bidirectional worklist fixed-point for reaching-definitions & liveness
-- Security scanner: SQL injection · hardcoded secrets · taint tracking
-- **Sub-1s** execution on 10K-line codebases
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 🏥 [`Cerebro`](https://cere-bro.in) — *Production Healthcare Platform*
-**`Django REST` `Flutter` `PostgreSQL` `AWS EC2` `Razorpay Route`**
-
-Live at **[cere-bro.in](https://cere-bro.in)** — patient-facing Flutter app + doctor-facing Clinic Partner app, unified Django REST backend
-- Razorpay Route marketplace payment splitting · Jitsi video consultations · JWT + RBAC auth
-- Deployed on AWS EC2 with Nginx · PostgreSQL on RDS · GitHub Actions CI/CD
-
-</td>
-</tr>
-</table>
-
----
-
-## ▸ `neofetch --stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -200,17 +157,13 @@ Live at **[cere-bro.in](https://cere-bro.in)** — patient-facing Flutter app + 
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pandeySAN&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=bf00ff&currStreakLabel=00d4ff&sideLabels=00ff41&dates=888888" />
-
-<br/><br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=pandeySAN&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4" />
 
 </div>
 
 ---
 
-## ▸ `solve --platform leetcode`
+## 🧩 Competitive Programming
 
 <div align="center">
 
@@ -218,16 +171,13 @@ Live at **[cere-bro.in](https://cere-bro.in)** — patient-facing Flutter app + 
 
 </div>
 
-```
-RATING     →  1900+                         RANK  →  Top 4% globally (788K+ users)
-SOLVED     →  550+                          BADGE →  Knight
-TOPICS     →  Dynamic Programming · Graphs · System Design · Segment Trees · Tries
-CODEFORCES →  Specialist · 1543 rating
-```
+- **Knight badge**, contest rating **1,902**
+- Top **4.66%** of 890K+ contestants worldwide, across 16 contests
+- **598 problems solved**: 157 easy · 342 medium · 99 hard
 
 ---
 
-## ▸ `plot --graph contribution`
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -237,31 +187,12 @@ CODEFORCES →  Specialist · 1543 rating
 
 ---
 
-## ▸ `cat achievements.log`
-
-```
-[✓] LeetCode       → 1900+ rating · 550+ solved · Top 4% globally (788K+ users)
-[✓] Codeforces     → Specialist · 1543 rating
-[✓] IIT Bombay     → FOSSEE Research Fellow · Drupal theme → 100K+ students nationwide
-[✓] Production     → Cerebro at cere-bro.in · 50K+ MAU · 99.5%+ uptime
-[✓] IBM Certified  → Flutter & Dart Mobile App Development
-[✓] Impact         → p99 latency -40% · deployment cycle -50% · test coverage 0%→85%
-```
-
----
-
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════╗
-║  AVAILABLE FOR  →  SDE Roles · India (Any)   ║
-║  OPEN TO        →  Relocation & Remote        ║
-║  CONTACT        →  sancpan02@gmail.com        ║
-╚═══════════════════════════════════════════════╝
-```
+**Open to SDE roles across India · relocation OK**
 
-*"The best error message is the one that never shows up."*
+📧 [sancpan02@gmail.com](mailto:sancpan02@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:bf00ff,50:00d4ff,100:00ff41&height=120&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf00ff,50:00d4ff,100:00ff41&height=120&section=footer&reversal=true" width="100%"/>
 
 </div>
