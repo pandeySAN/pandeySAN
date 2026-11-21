@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=640&lines=Software+Engineer+%C2%B7+Flutter+%26+Django;One+API+powering+three+Flutter+apps;390%2B+backend+tests+%C2%B7+14+Celery+jobs;LeetCode+Knight+%C2%B7+rating+1902;Open+to+roles+across+India)](https://git.io/typing-svg)
 
 <br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pandeysanc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandeysanc)
 [![Email](https://img.shields.io/badge/Email-sancpan02@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sancpan02@gmail.com)
